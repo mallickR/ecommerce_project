@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+.brandp{
+   
+   height:70vh;
+    width: 100%;
+    
+    
+}
+/* .groups{
+    margin-top: 130px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+    width:80%;
+
+} */
+.brand1{
+    /* padding: 50px; */
+    margin:50px;
+    width:80%;
+    height:500px;
+    margin-top: 80px;
+    
+    
+}
+.headings{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.hr1{
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}

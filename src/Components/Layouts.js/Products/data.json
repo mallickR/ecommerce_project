@@ -1,0 +1,32 @@
+{
+   "brand" :  [
+     
+       {
+          "id":"01",
+         
+          
+          
+          "img": "../../../Images/tommy.jpg"
+       
+       },
+       {
+        "id":"02",
+        "img": "../../../Images/puma.webp"
+       
+     },
+     {
+        "id":"03",
+        "img": "../../../Images/jackjones.webp"
+       
+     },
+     {
+        "id":"04",
+        "img": "../../../Images/forever.webp"
+      
+     }
+     
+    
+    ]
+ }
+
+
